@@ -1,0 +1,58 @@
+{
+  "message": "ok",
+  "result": {
+    "properties": {
+      "name": "Luke Skywalker",
+      "gender": "male",
+      "skin_color": "fair",
+      "hair_color": "blond",
+      "height": "172",
+      "eye_color": "blue",
+      "mass": "77",
+      "homeworld": "https://www.swapi.tech/api/planets/1",
+      "birth_year": "19BBY",
+      "vehicles": [
+        "Snowspeeder",
+        "Imperial Speeder Bike"
+      ],
+      "starships": [
+        "X-wing",
+        "Imperial shuttle"
+      ],
+      "films": [
+        "A New Hope",
+        "The Empire Strikes Back",
+        "Return of the Jedi",
+        "Revenge of the Sith"
+      ],
+      "created": "2025-09-14T00:12:09.502Z",
+      "edited": "2025-09-14T00:12:09.502Z",
+      "url": "https://www.swapi.tech/api/people/1"
+    },
+    "_id": "5f63a36eee9fd7000499be42",
+    "description": "A person within the Star Wars universe",
+    "uid": "1",
+    "__v": 4
+  },
+  "apiVersion": "1.0",
+  "timestamp": "2025-09-14T12:18:25.062Z",
+  "support": {
+    "contact": "admin@swapi.tech",
+    "donate": "https://www.paypal.com/donate/?business=2HGAUVTWGR5T2\u0026no_recurring=0\u0026item_name=Support\u002BSwapi\u002Band\u002Bkeep\u002Bthe\u002Bgalaxy%27s\u002Bdata\u002Bfree%21\u002BYour\u002Bdonation\u002Bfuels\u002Bopen-source\u002Binnovation\u002Band\u002Bhelps\u002Bus\u002Bgrow.\u002BThank\u002Byou%21\u002B%F0%9F%9A%80\u0026currency_code=USD",
+    "partnerDiscounts": {
+      "saberMasters": {
+        "link": "https://www.swapi.tech/partner-discount/sabermasters-swapi",
+        "details": "Use this link to automatically get $10 off your purchase!"
+      },
+      "heartMath": {
+        "link": "https://www.heartmath.com/ryanc",
+        "details": "Looking for some Jedi-like inner peace? Take 10% off your heart-brain coherence tools from the HeartMath Institute!"
+      }
+    }
+  },
+  "social": {
+    "discord": "https://discord.gg/zWvA6GPeNG",
+    "reddit": "https://www.reddit.com/r/SwapiOfficial/",
+    "github": "https://github.com/semperry/swapi/blob/main/CONTRIBUTORS.md"
+  }
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfavox", "Alfavox\Alfavox.csproj", "{D9FBB08B-AB2F-4252-80A3-2E4FF5E70F54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alfavox.Tests", "Alfavox.Tests\Alfavox.Tests.csproj", "{ADDF14DB-7FCE-4072-A09F-7AFAECCF243C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FBB08B-AB2F-4252-80A3-2E4FF5E70F54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FBB08B-AB2F-4252-80A3-2E4FF5E70F54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FBB08B-AB2F-4252-80A3-2E4FF5E70F54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FBB08B-AB2F-4252-80A3-2E4FF5E70F54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDF14DB-7FCE-4072-A09F-7AFAECCF243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDF14DB-7FCE-4072-A09F-7AFAECCF243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDF14DB-7FCE-4072-A09F-7AFAECCF243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDF14DB-7FCE-4072-A09F-7AFAECCF243C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

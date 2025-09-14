@@ -1,0 +1,20 @@
+﻿@page "/"
+@rendermode InteractiveServer
+@inject LukeSkywalkerProcessor consumer
+
+<PageTitle>Alfavox Star Wars API Test</PageTitle>
+
+
+<button class="btn btn-primary" @onclick="@(() => lukeSkywalkerInfo = consumer.GetLukeSkywalkerInfo().Result)">Get info
+    about Luke Skywalker!
+</button>
+
+<br/>
+
+<li><code>Info response:</code>: <br/> @lukeSkywalkerInfo</li>
+
+@code{
+
+    public string lukeSkywalkerInfo { get; set; }
+
+}
